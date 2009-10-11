@@ -1,0 +1,14 @@
+border_size=1
+usage=map
+
+Uu          , Uu          , Uu          , Uu          , Uu          , Uu          , Ql          , Uu          , Xu          , Xu          
+Uu          , 1 Uu        , Uu          , Uu          , Uu          , Ql          , Uu          , Ql          , Uu          , Xu          
+Xu          , Uu          , Uu^Uf       , Uu          , Uu          , Ql^Bs/      , Ql          , Uu          , Xu          , Xu          
+Xu          , Xu          , Xu          , Uu^Uf       , Uh^Ii       , Uh^Ii       , Xu          , Xu          , Xu          , Gg          
+Gs^Fp       , Xu          , Gs^Fp       , Xu          , Gs          , Gs          , Gs          , Gs^Fp       , Gs^Fp       , Gg          
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs          , Gs          , Gs^Fp       , Gs^Fp       , Gg          
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs          , Gs          , Gs^Fp       , Gs^Fp       , Gs^Fp       
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs          , 2 Gs        , Gs          , Gs^Fp       , Gs^Fp       
+Gs^Fp       , Gg^Fet      , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs          , Gs          , Gs          , Gs^Fp       , Gs^Fp       
+Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Gg          
+

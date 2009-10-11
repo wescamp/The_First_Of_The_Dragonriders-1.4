@@ -1,0 +1,30 @@
+1. units: 
+   a)Dragonrider lvl 1check, 2check, 3check........................................................................check 
+   b)Wise Man lvl 3................................................................................................check
+2. maps:
+   a)Flee from the village.........................................................................................check
+   b)The true origin...............................................................................................check
+   c)On the way south..............................................................................................check
+   c2)(Undecided)..................................................................................................check
+   d)Wesmere forest/ The towns of Elves............................................................................check
+   e)Looking for help..............................................................................................check
+   f)The final confrontation / Blast from the past (Jevyan!!!) / Through the fire and the flames
+3. scenarios:
+   a)Flee from the village.........................................................................................check
+  a')Interlude.....................................................................................................check
+   b)The true origin...............................................................................................check
+   c)On the way south
+   d)Wesmere forest/ The towns of Elves
+   e)Looking for help
+   f)The final confrontation / Blast from the past (Jevyan!!!)
+4. utils: intro [check] +deaths....................................................................................don't get it
+5. images: fix the dragonrider.....................................................................................all_fixed
+
+
+blast it
+too much improvisation to follow schedule
+
+
+
+
+bug: fix animation and icon for Dragon Master2 (remove "normal" sword attack)

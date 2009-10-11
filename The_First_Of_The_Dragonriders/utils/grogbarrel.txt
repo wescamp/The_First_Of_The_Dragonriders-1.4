@@ -1,0 +1,12 @@
+[terrain]
+    symbol_image=../items/barrel
+    id=GrogBarrel
+    name= _ "Grog Barrel"
+    string=Rr^Wyb
+    aliasof=Gg^Vh
+    heals=8
+    gives_income=true
+    editor_group=village
+[/terrain]
+
+{TERRAIN_BASE_OV *^Wyb       "../items/barrel"}
